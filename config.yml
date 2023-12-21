@@ -1,0 +1,16 @@
+theme: PaperMod
+languageCode: en-US
+title: slimf.dev
+params:
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+      - Seasoned web and mobile developer with two years of professional experience. Always focused on user-experience, I am passionate about creating innovative and user-friendly websites and mobile apps. I am also a lifelong learner and am always looking for new ways to challenge myself and improve my skills.
+      
+      - Currently working on this portfolio to highlight some of my programming endeavors. Please keep in mind that this is a work in progress~ ! 
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/slimf1"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/slimane-fakani-780269240"
