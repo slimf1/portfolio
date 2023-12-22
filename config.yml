@@ -3,6 +3,9 @@ languageCode: en-US
 title: slimf.dev
 baseUrl: https://www.slimf.dev/
 params:
+  title: slimf.dev
+  description: Personal portfolio of Slimane F.
+  author: Slimane F.
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >
