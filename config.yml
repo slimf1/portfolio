@@ -1,6 +1,7 @@
 theme: PaperMod
 languageCode: en-US
 title: slimf.dev
+baseUrl: https://www.slimf.dev/
 params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
